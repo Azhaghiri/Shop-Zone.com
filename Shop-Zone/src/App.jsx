@@ -16,7 +16,7 @@ return(
   <>
       <Slider />
       <Header />
-      <Welcome />
+      <Welcome /> 
       <div id='mens-section' className='section'>
         <h1>Mens Section</h1>
         <Boys />
